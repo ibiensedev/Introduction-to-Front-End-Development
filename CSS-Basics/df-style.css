@@ -1,0 +1,35 @@
+#middle {
+    display: block;
+    text-align: center;
+}
+
+.parent {
+    border: 4px solid red;
+}
+
+.child {
+    display: block;
+    border: 4px solid green;
+    width: 50%;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.parents {
+    padding: 50px;
+    border: solid 2px red;
+    display: block;
+}
+
+.childs {
+    float: right;
+}
+
+#img-salad {
+    width: 200px;
+    height: 125px;
+    padding: 10px;
+}
