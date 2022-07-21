@@ -1,0 +1,49 @@
+/* Element selectors */
+p {
+    color: blue;
+}
+
+/* ID Selectors */
+#latest {
+    background-color: purple;
+}
+
+/* Class selectors */
+.navigation {
+    margin: 2px;
+}
+
+/* Element with class selector */
+p.introduction {
+    margin: 2px;
+}
+
+/* Descendant selectors 
+#blog h1 {
+    color: blue;
+}
+*/
+
+/* Child selectors */
+#blog>h1 {
+    color: blue;
+}
+
+/*:hover Pseudo-Class*/
+:hover {
+    color: orange;
+}
+
+#rgb {
+    color: rgb(255,122,3);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-decoration: overline red solid 20px;
+    
+
+}
+
+.rgba {
+    color: rgba(255,122,3, 128);
+}
