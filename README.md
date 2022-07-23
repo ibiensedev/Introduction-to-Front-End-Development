@@ -11,3 +11,7 @@ What is the Document Object Model? (W3C): https://www.w3.org/TR/WD-DOM/introduct
 ARIA in HTML (W3C via Github): https://w3c.github.io/html-aria/
 
 ARIA Authoring Practices  (W3C): https://www.w3.org/WAI/ARIA/apg/
+
+CSS Basics
+
+CSS Reference (Mozilla): https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
